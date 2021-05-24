@@ -1,7 +1,7 @@
 {
     "config": {
         "port": 3000,
-        "address": "https://harlequin-jaguar-vjzyviwx.ws-eu07.gitpod.io",
+        "address": "https://peach-swan-2u1xs2nr.ws-eu07.gitpod.io",
         "editor": {
             "mode": "gitpod",
             "version": "1.0.61"
@@ -14,6 +14,9 @@
         "exercisesPath": ".learn/exercises",
         "disableGrading": false,
         "actions": [
+            "build",
+            "test",
+            "reset",
             "build",
             "test",
             "reset"
@@ -124,7 +127,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 3,
@@ -154,7 +157,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 4,
@@ -184,7 +187,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 5,
@@ -214,7 +217,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 6,
@@ -269,7 +272,7 @@
                     "hidden": true
                 }
             ],
-            "done": false
+            "done": true
         },
         {
             "position": 8,
